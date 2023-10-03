@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: lightgray;
+}
+button {
+    width: 200px;
+    height: 200px;
+}
+p {
+    height: auto;
+    text-align: center;
+}
